@@ -1,0 +1,15 @@
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\bin\Debug\net6.0\Interfaces_FischlmayrHaas.exe
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\bin\Debug\net6.0\Interfaces_FischlmayrHaas.deps.json
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\bin\Debug\net6.0\Interfaces_FischlmayrHaas.runtimeconfig.json
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\bin\Debug\net6.0\Interfaces_FischlmayrHaas.dll
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\bin\Debug\net6.0\ref\Interfaces_FischlmayrHaas.dll
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\bin\Debug\net6.0\Interfaces_FischlmayrHaas.pdb
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.csproj.AssemblyReference.cache
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.dll
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\ref\Interfaces_FischlmayrHaas.dll
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.pdb
+C:\Users\danie\RiderProjects\FischlmayrHaas-Interfaces-2022\Interfaces_FischlmayrHaas\obj\Debug\net6.0\Interfaces_FischlmayrHaas.genruntimeconfig.cache
