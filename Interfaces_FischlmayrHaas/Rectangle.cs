@@ -1,11 +1,19 @@
 ﻿namespace Interfaces_FischlmayrHaas;
 
-class Rectangle : IPolygon {
+// implements two interface
+class Rectangle : IPolygon, IColor {
 
-    // implementation of methods inside interface
-    public void CalculateArea(int l, int b) {
+    // implementation of IPolygon interface
+    public void CalculateArea(int a, int b) {
 
-        int area = l * b;
-        Console.WriteLine("Area of Rectangle: " + area);
+        int area = a * b;
+        Console.WriteLine($"Area of Rectangle: {area}");
+    }
+
+    // implementation of IColor interface
+    public void GetColor() {
+
+        Console.WriteLine("Red Rectangle");
+            
     }
 }
